@@ -6,12 +6,12 @@ theme: jekyll-theme-cayman
 # this and add the path to the pages in order as they should show up
 
 header_pages:
-# - pages/werkzeug.md
- #  - pages/garten.md
- - werkzeug.md
+ - pages/werkzeug.md
+ - pages/garten.md
+# - werkzeug.md
 #   - categories.html
 #   - tags.html
 #   - about.md
 
-#include:
-#  - pages
+include:
+ - pages
