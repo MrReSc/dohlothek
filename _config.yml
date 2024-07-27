@@ -12,5 +12,5 @@ theme: jekyll-theme-cayman
 #   - tags.html
 #   - about.md
 
-include:
-  - pages
+#include:
+#  - pages
